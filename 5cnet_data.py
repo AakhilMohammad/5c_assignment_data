@@ -1,4 +1,4 @@
-[11:27, 01/10/2024] Kausik SRM: import zipfile
+import zipfile
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
